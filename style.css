@@ -38,12 +38,6 @@ body{
 .new_li p{
     margin-top: 10px;
 }
-
-
-
-
-
-
 .alumni{
     cursor: pointer;
 }
@@ -57,9 +51,13 @@ body{
     display: inline-block;
     
 }
-.p_modal{
-    margin-top: 10px;
-}
+
 .modal-body{
     text-align: center;
 }
+
+
+
+
+
+
